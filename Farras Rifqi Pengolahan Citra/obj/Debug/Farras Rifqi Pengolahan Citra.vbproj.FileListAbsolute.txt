@@ -1,0 +1,10 @@
+c:\users\acer\documents\visual studio 2012\Projects\Farras Rifqi Pengolahan Citra\Farras Rifqi Pengolahan Citra\bin\Debug\Farras Rifqi Pengolahan Citra.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\Farras Rifqi Pengolahan Citra\Farras Rifqi Pengolahan Citra\bin\Debug\Farras Rifqi Pengolahan Citra.exe
+c:\users\acer\documents\visual studio 2012\Projects\Farras Rifqi Pengolahan Citra\Farras Rifqi Pengolahan Citra\bin\Debug\Farras Rifqi Pengolahan Citra.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Farras Rifqi Pengolahan Citra\Farras Rifqi Pengolahan Citra\bin\Debug\Farras Rifqi Pengolahan Citra.xml
+c:\users\acer\documents\visual studio 2012\Projects\Farras Rifqi Pengolahan Citra\Farras Rifqi Pengolahan Citra\obj\Debug\Farras_Rifqi_Pengolahan_Citra.Form1.resources
+c:\users\acer\documents\visual studio 2012\Projects\Farras Rifqi Pengolahan Citra\Farras Rifqi Pengolahan Citra\obj\Debug\Farras_Rifqi_Pengolahan_Citra.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\Farras Rifqi Pengolahan Citra\Farras Rifqi Pengolahan Citra\obj\Debug\Farras Rifqi Pengolahan Citra.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\Farras Rifqi Pengolahan Citra\Farras Rifqi Pengolahan Citra\obj\Debug\Farras Rifqi Pengolahan Citra.exe
+c:\users\acer\documents\visual studio 2012\Projects\Farras Rifqi Pengolahan Citra\Farras Rifqi Pengolahan Citra\obj\Debug\Farras Rifqi Pengolahan Citra.xml
+c:\users\acer\documents\visual studio 2012\Projects\Farras Rifqi Pengolahan Citra\Farras Rifqi Pengolahan Citra\obj\Debug\Farras Rifqi Pengolahan Citra.pdb
